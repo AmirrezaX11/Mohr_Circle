@@ -127,9 +127,6 @@ Mohrs-Circle/
 ├── build_exe.bat
 ├── requirements.txt
 ├── README.md
-│
-└── dist/
-    └── Mohrs_Circle.exe
 ```
 
 ## 📐 Calculations
